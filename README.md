@@ -3,6 +3,15 @@ This tool demonstrates the ability of AI in creating phishing emails.
 Currently it aims to create a mail from a company to one of their employees but this can be easily modified.
 The use for Spear Phishing would be easily possible by slightly changing the prompt sentence structure and giving linkedin, twitter, facebook profiles or homepages as targets.
 
+## DISCLAIMER 
+This tool is intended for research purposes only and should not be used for any malicious or illegal activities. The use of this tool for any unauthorized or unethical purposes is strictly prohibited. The creators of this tool are not responsible for any damages or losses caused by the misuse of this tool. By using this tool, you agree to use it only for legitimate research purposes. 
+
+If you consider using this tool for creating targeted phishing awareness campaigns be aware of the following: 
+1. Be sure to have the legal consent of the party in question (company, organisation or person). 
+2. Be in compliance with all applicable laws and regulations.
+
+This work was not created in any relation to my current employer.
+
 ## Installation and usage
 
 To use phishermansAI.py you can download the repository and run the program with your locally installed python3 environment.
@@ -83,15 +92,6 @@ options:
 > 
 > Test Phishing LTD
  
-## DISCLAIMER 
-This tool is intended for research purposes only and should not be used for any malicious or illegal activities. The use of this tool for any unauthorized or unethical purposes is strictly prohibited. The creators of this tool are not responsible for any damages or losses caused by the misuse of this tool. By using this tool, you agree to use it only for legitimate research purposes. 
-
-If you consider using this tool for creating targeted phishing awareness campaigns be aware of the following: 
-1. Be sure to have the legal consent of the party in question (company, organisation or person). 
-2. Be in compliance with all applicable laws and regulations.
-
-This work was not created in any relation to my current employer.
-
 ## Acknowledgement
 
 Thanks a lot to my mentor Severin for the brainstorming session with me in relation to my study, which led to this idea.
