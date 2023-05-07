@@ -1,5 +1,5 @@
 # Phisherman's AI
-This tool demonstrates the ability of AI to create social engineering (phishing) emails.
+This tool demonstrates the ability of AI in creating phishing emails.
 Currently it aims to create a mail from a company to one of their employees but this can be easily modified.
 The use for Spear Phishing would be easily possible by slightly changing the prompt sentence structure and giving linkedin, twitter, facebook profiles or homepages as targets.
 
