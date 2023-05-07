@@ -62,7 +62,7 @@ options:
 >
 > To help you with this process, we have provided you with a link to download the latest software version: https://foobar.zyx. The download is free and will only take a few minutes to complete. Not only will this improve your device's security, but it will also enhance its performance.
 >
-> As our way of saying thanks for prioritizing this crucial task, we would like to offer you a special incentive. Simply download the software using the link provided above and you will automatically be entered into a raffle draw to win a brand new REDACTED.
+> As our way of saying thanks for prioritizing this crucial task, we would like to offer you a special incentive. Simply download the software using the link provided above and you will automatically be entered into a raffle draw to win a brand new REDACTED KJ5.
 >
 > Please note that this offer is only available to employees who download the latest software version. Don't miss out on this opportunity to upgrade your device's performance and potentially win a stunning new car.
 > 
